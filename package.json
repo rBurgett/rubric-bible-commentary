@@ -1,0 +1,19 @@
+{
+  "name": "rubric-commentary",
+  "version": "0.1.0",
+  "description": "rubric-commentary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/rubric-commentary.git"
+  },
+  "author": "Ryan Burgett <ryan@burgettdev.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rBurgett/rubric-commentary/issues"
+  },
+  "homepage": "https://github.com/rBurgett/rubric-commentary#readme"
+}
